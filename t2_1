@@ -1,0 +1,37 @@
+w 0 50 xbcd	
+w 0 40 xbcf	
+w 0 78 xdef	
+w 0 23 xnnn	
+w 0 60 xcbd
+s 50
+w 1 23 mmmm
+w 1 30 ybyd	
+w 1 42 ybyc	
+w 1 72 ydyf
+s 100			
+r 1	78	
+r 0 42
+w 0 56 zynn	
+w 0 10 zybd
+w 0 15 zcdg
+r 1	72	
+r 0 23 
+s 50
+w 0 30
+w 1 90 zbyd	
+w 1 52 zycf	
+w 1 76 zjkl	
+d 0 42		
+d 1 56
+w 1 31 xyhh	
+w 1 18 xsbd
+w 0 25 xklm
+s 50			
+r 1	10	
+r 1 56
+s 50		
+w 0 31	
+r 0 23
+d 1 90
+d 1	18	
+d 0 76 

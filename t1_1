@@ -1,0 +1,36 @@
+w 1 50 abcd	
+w 1 40 abcf	
+w 1 78 cdef	
+w 1 23 nnnn	
+w 1 60 acbd
+w 1 23 mmmm
+w 1 30 abyd	
+w 1 42 abyc	
+w 1 72 cdyf
+s 200			
+w 1 42		
+r 1	30	
+r 1 60
+w 1 56 nynn	
+w 1 10 aybd
+w 1 15 bcdg
+d 1	30	
+d 1 29
+w 1 30
+w 1 90 bbyd	
+w 1 52 bycf	
+w 1 76 cjkl	
+r 1	72	
+r 1 23
+w 1 31 hyhh	
+w 1 18 asbd
+w 1 25 bklm
+s 200			
+w 1 90		
+r 1	52	
+r 1 40		
+w 1 31 mmmm	
+r 1 10
+d 1
+d 1		
+d 1 31
