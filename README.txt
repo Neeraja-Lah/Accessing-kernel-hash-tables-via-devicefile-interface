@@ -1,6 +1,9 @@
-.. _assignment3:
+CSE438-Embedded Systems Programming
 
-Accessing kernel hash tables via a device file interface
+Assignment 3 Accessing kernel hash tables via a device file interface
+Name: Neeraja Lahudva Kuppuswamy
+ASU ID: 1224187432
+
 ########################################################
 
 Overview
